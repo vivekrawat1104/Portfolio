@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_portfolio=self.webpackChunkmy_portfolio||[]).push([[611],{611:(o,e,p)=>{o.exports=p.p+"static/media/MongoDB.e1afb73651b5a5c94406.png"}}]);

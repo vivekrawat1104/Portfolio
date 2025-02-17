@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_portfolio=self.webpackChunkmy_portfolio||[]).push([[835],{835:(o,p,s)=>{o.exports=s.p+"static/media/MongoDB Compass.aacbd2919f2b7caf902f.png"}}]);

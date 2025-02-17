@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_portfolio=self.webpackChunkmy_portfolio||[]).push([[480],{480:(e,p,o)=>{e.exports=o.p+"static/media/GSAP.dc93949e47633129f596.png"}}]);

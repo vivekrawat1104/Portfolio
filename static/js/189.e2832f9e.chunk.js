@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_portfolio=self.webpackChunkmy_portfolio||[]).push([[189],{189:(e,o,p)=>{e.exports=p.p+"static/media/VS Code.ec0e2a1f0d2cde844adb.png"}}]);

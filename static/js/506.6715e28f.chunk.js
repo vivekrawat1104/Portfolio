@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_portfolio=self.webpackChunkmy_portfolio||[]).push([[506],{506:(o,p,e)=>{o.exports=e.p+"static/media/Spring Tool Suite.4f26ba0f1073b255a50c.png"}}]);

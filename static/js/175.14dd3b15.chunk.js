@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_portfolio=self.webpackChunkmy_portfolio||[]).push([[175],{175:(e,o,p)=>{e.exports=p.p+"static/media/Postman.6e5519744542e4cf94a3.png"}}]);

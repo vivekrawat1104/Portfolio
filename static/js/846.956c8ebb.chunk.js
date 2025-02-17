@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_portfolio=self.webpackChunkmy_portfolio||[]).push([[846],{846:(e,o,p)=>{e.exports=p.p+"static/media/Springboot.953ee24309fa38748981.png"}}]);
